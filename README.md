@@ -1,36 +1,151 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Soumya — Cinematic AI Portfolio
 
-## Getting Started
+A modern cinematic developer portfolio built with **Next.js**, **Tailwind CSS**, **Framer Motion**, and **GSAP**.
 
-First, run the development server:
+Designed with a minimal black aesthetic, smooth motion systems, horizontal storytelling, animated timelines, and immersive interactions focused on showcasing AI engineering, automation, analytics, and GTM systems.
+
+---
+
+## Preview
+
+Live Portfolio:
+Add your deployed Vercel link here
+
+---
+
+# Features
+
+* Cinematic landing hero section
+* Horizontal scrolling project showcase
+* Animated timeline-based skills section
+* Motion-driven UI interactions
+* Custom cursor glow system
+* Smooth reveal animations
+* Minimal luxury-inspired dark UI
+* Responsive layout
+* Interactive section transitions
+* Modern AI-engineering focused storytelling
+
+---
+
+# Tech Stack
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+### Animation & Motion
+
+* Framer Motion
+* GSAP
+* ScrollTrigger
+
+### Icons
+
+* Lucide React
+
+---
+
+# Sections
+
+### Hero
+
+Minimal cinematic introduction with animated reveal transitions.
+
+### About
+
+Personal introduction with editorial-style layout and immersive typography.
+
+### Projects
+
+Horizontally scrolling storytelling section showcasing AI and automation projects.
+
+### Experience
+
+Minimal professional timeline highlighting internships and engineering experience.
+
+### Skills
+
+Interactive scroll-traversing skill timeline with animated checkpoints.
+
+### Contact
+
+Minimal cinematic ending section with social links and contact CTA.
+
+---
+
+# Featured Projects
+
+## AI Lead Qualification & Outreach Automation System
+
+Built AI-powered lead scoring and outreach workflows using FastAPI, Docker, LLM APIs, and webhook orchestration systems.
+
+## AI Conversation Intelligence Platform
+
+Developed transcript summarization and automated insight generation pipelines with scalable backend architecture.
+
+## griVoice — AI Voice Assistant
+
+Built an AI voice assistant optimized for low-bandwidth environments using STT, NLP, LLM inference, and TTS systems.
+
+## AI Health Report Generation System
+
+Created AI-assisted health reporting workflows generating personalized recommendations and structured health summaries.
+
+---
+
+# Installation
 
 ```bash
+git clone <your-repository-url>
+
+cd <your-project-folder>
+
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Deployment
 
-To learn more about Next.js, take a look at the following resources:
+Recommended deployment platform:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deploy instantly by importing the GitHub repository into Vercel.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Inspiration
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Inspired by:
+
+* cinematic storytelling portfolios
+* interactive design systems
+* luxury minimal interfaces
+* modern motion-based web experiences
+
+---
+
+# Contact
+
+LinkedIn: Add your LinkedIn URL
+GitHub: Add your GitHub URL
+Email: Add your Email
+
+---
+
+# License
+
+This project is open-source and available for inspiration and learning.
