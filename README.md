@@ -140,9 +140,7 @@ Inspired by:
 
 # Contact
 
-LinkedIn: Add your LinkedIn URL
-GitHub: Add your GitHub URL
-Email: Add your Email
+Email: agrawalsomya12@gmail.com
 
 ---
 
